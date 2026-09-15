@@ -28,4 +28,4 @@ A simple web app that summarizes any pasted text into 3 concise sentences, power
 - Building and deploying a simple web app with Streamlit
 
 ## Live Demo
-[Add your deployed link here once you deploy it]
+[https://ai-summarizer-hplddsn9fgbgfv5xptbq9e.streamlit.app/]
